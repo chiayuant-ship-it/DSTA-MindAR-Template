@@ -1,10 +1,10 @@
-# [This is the Project Title] 
+# [BrainHack2026] 
 
 A brief description of what this project does and who it's for.  
 
  
 
-# Hi, I'm [Your Name]! 👋 
+# Hi, I'm [Chia Yuan]! 👋 
 
  
 
